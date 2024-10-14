@@ -3,6 +3,7 @@ import 'package:study_msg/data/ds/auth/auth_ds.dart';
 import 'package:study_msg/data/models/remote/user/user.dart';
 
 class AuthMDS implements IAuthDS {
+  
   @override
   Future<User> login(String login, String password) async {
     await Future.delayed(const Duration(seconds: 1));
