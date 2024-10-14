@@ -1,19 +1,31 @@
 name: study_msg
 description: "A new Flutter project."
 publish_to: 'none'
-version: 0.1.0
+version: 1.0.0
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
 
 dependencies:
+  auto_route: ^9.2.2
+  auto_size_text: ^3.0.0
+  bloc: ^8.1.4
+  dio: ^5.7.0
+  elementary: ^3.1.1
+  elementary_helper: ^1.0.2
   flutter:
     sdk: flutter
+  http: ^1.2.2
+  l: ^4.0.2
+  provider: ^6.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+  build_runner: ^2.4.9
+  json_serializable:
+  retrofit_generator:
 
 flutter:
   uses-material-design: true
