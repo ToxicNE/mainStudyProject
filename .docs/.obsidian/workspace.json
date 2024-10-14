@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "09d41dfb56a3936f",
+            "id": "6f36832995cdf37c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elementary/Elementary code style.md",
+                "file": "Handle errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elementary/Elementary code style.md",
+                "file": "Handle errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elementary/Elementary code style.md",
+                "file": "Handle errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elementary/Elementary code style.md"
+                "file": "Handle errors.md"
               }
             }
           }
@@ -159,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09d41dfb56a3936f",
+  "active": "6f36832995cdf37c",
   "lastOpenFiles": [
+    "Untitled/Ошибки.md",
+    "Handle errors.md",
+    "Elementary/Elementary code style.md",
+    "Untitled",
     "Elementary/Elementary helper/EntityState.md",
     "Elementary/Elementary helper.md",
-    "Elementary/Elementary code style.md",
     "Elementary/Elementary.md",
     "Elementary/Elementary helper/EntityStateNotifierBuilder.md",
     "Elementary/Elementary helper/EntityStateNotifier.md",
@@ -175,7 +178,6 @@
     "Elementary/Elementary helper/DoubleEntityStateNotifierBuilder.md",
     "Elementary/Elementary helper",
     "Elementary",
-    "Untitled",
     "async dependency",
     "elementary"
   ]

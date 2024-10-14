@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:provider/provider.dart';
 import 'package:study_msg/di/app_async_dependency.dart';
-import 'package:study_msg/features/theme/theme.dart';
+import 'package:study_msg/ui/theme/theme.dart';
 import 'package:study_msg/navigation/app_router.dart';
 
 class GlobalDep extends AppAsyncDependency {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:study_msg/di/global/global_dep.dart';
-import 'package:study_msg/features/theme/app_theme.dart';
-import 'package:study_msg/features/theme/theme.dart';
+import 'package:study_msg/ui/theme/app_theme.dart';
+import 'package:study_msg/ui/theme/theme.dart';
 
 class App extends StatefulWidget {
   const App({super.key});
